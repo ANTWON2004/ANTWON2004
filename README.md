@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ANTWON2004/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ANTWON2004/configure-ad)
-  - [VMs Setup/Remote Desktop Use ]
+  - [VMs Setup/Remote Desktop Use ](https://github.com/ANTWON2004/VMs-Setup-Remote-Desktop-Use)
 
 <h2>Connect with me:</h2>
 
