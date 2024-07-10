@@ -1,4 +1,4 @@
-<h1>Hi, I'm Antwon, an <a href="www.linkedin.com/in/antwon-morris">IT Professional
+<h1>Hi, I'm Antwon, an <a href=https://www.linkedin.com/in/antwon-morris/>IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
