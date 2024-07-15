@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ANTWON2004/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ANTWON2004/post-install-config)
-  - [osTicket: Ticket Lifecycle](
+  - [osTicket: Ticket Lifecycle](https://github.com/ANTWON2004/ticket-lifecycle)
   
 
 <h2>Connect with me:</h2>
